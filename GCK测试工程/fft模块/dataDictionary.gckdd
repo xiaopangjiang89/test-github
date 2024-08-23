@@ -1,0 +1,18 @@
+<dataDictionary version="9.0">
+    <data name="Enum_01" dicType="3" paraEnumType="" type="7" dimension="" defaultValue="0" currentValue="0" unitType="无量纲" uint="-" description=" " calibrationValue="0" offset="0" outputMin="-128" outputMax="127" isCalibration="0" isCalibType="1" isCodeGenEnable="1" storageType="0" keywords="0" isSharingMode="0" proName="" verilogUsing="0" verilogSigned="1" verilogTotal="8" verilogFractional="0" id="-1">
+        <DataDictEnum typeName="Enum_01">
+            <Data name="enum1" value="0" />
+            <Data name="enum2" value="1" />
+            <Data name="enum3" value="2" />
+        </DataDictEnum>
+    </data>
+    <data name="Measurement_01" dicType="1" paraEnumType="" type="6" dimension="[6]" defaultValue="0" currentValue="0" unitType="无量纲" uint="-" description=" " calibrationValue="0" offset="0" outputMin="0" outputMax="0" isCalibration="0" isCalibType="1" isCodeGenEnable="1" storageType="0" keywords="1" isSharingMode="0" proName="" verilogUsing="0" verilogSigned="0" verilogTotal="8" verilogFractional="0" id="105">
+        <DataDictEnum typeName="" />
+    </data>
+    <data name="Measurement_02" dicType="1" paraEnumType="" type="6" dimension="[6]" defaultValue="0" currentValue="0" unitType="无量纲" uint="-" description=" " calibrationValue="0" offset="0" outputMin="0" outputMax="0" isCalibration="0" isCalibType="1" isCodeGenEnable="1" storageType="1" keywords="0" isSharingMode="0" proName="" verilogUsing="0" verilogSigned="0" verilogTotal="8" verilogFractional="0" id="111">
+        <DataDictEnum typeName="" />
+    </data>
+    <data name="Parameter_01" dicType="0" paraEnumType="" type="0" dimension="" defaultValue="0" currentValue="0" unitType="无量纲" uint="-" description=" " calibrationValue="0" offset="0" outputMin="0" outputMax="0" isCalibration="0" isCalibType="1" isCodeGenEnable="1" storageType="0" keywords="0" isSharingMode="0" proName="" verilogUsing="0" verilogSigned="0" verilogTotal="8" verilogFractional="0" id="117">
+        <DataDictEnum typeName="" />
+    </data>
+</dataDictionary>
