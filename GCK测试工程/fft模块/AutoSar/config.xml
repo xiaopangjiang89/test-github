@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autosar title="AUTOSAR">
+    <atomiccomponent type="应用层" title="原子组件(AtomicComponents)" name="ASWC" icon="">
+        <components type="应用层" applyname="/Components/SwcImplementations/inout_Impl" title="ASWC" name="ASWC" package="/Components" innerlimitname="/Components/InternalBehaviors/inout_IB">
+            <receiverports title="接收端口(ReceiverPorts)"/>
+            <senderports title="发送端口(SenderPorts)"/>
+            <clientports title="客户端端口(ClientPorts)"/>
+            <serverports title="服务端端口(ServerPorts)"/>
+            <parameterReceiverPorts title="参数接收端口(ParamterReceiverPorts)"/>
+            <runnables title="运行实体(Runables)"/>
+            <InnerEntityVars title="运行实体间变量(IRV)"/>
+            <parameter title="参数(Parameters)"/>
+        </components>
+    </atomiccomponent>
+    <sr title="S-R接口"/>
+    <cs title="C-S接口"/>
+    <params title="参数接口"/>
+    <addressmethod title="地址方法" selectall="0"/>
+    <xmloption exportXmlPackage="模块化" title="XML选项" xmlOptionSource="内联"/>
+    <Packages>
+        <Components/>
+        <Interfaces/>
+        <DataTypes>
+            <AppIDataTypes/>
+            <SwAddrMethods/>
+            <Constants/>
+            <Ground/>
+            <SwBaseTypes/>
+            <CompuMethods/>
+            <Units/>
+            <SystemConstants/>
+            <DataConstrs/>
+        </DataTypes>
+        <SwcImplementations/>
+    </Packages>
+</autosar>
